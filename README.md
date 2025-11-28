@@ -1,3 +1,4 @@
 # New_Shots
-It's about restart the GitHub journey. 
+It's about restart the GitHub journey.
+<br>
 Author: Jayjit 
